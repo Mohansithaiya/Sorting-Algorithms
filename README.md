@@ -54,15 +54,13 @@ print(num)
 ```
 
 ## Output:
-```
 (i)Write a program to sort the elements in the list using the Selection Sort algorithm.
 ![Screenshot 2024-10-15 182653](https://github.com/user-attachments/assets/ba603a93-5fe4-4e90-a703-32731e448548)
 
-```
-```
+
 (ii)Write a program to sort the elements in the list using the Insertion Sort algorithm.
 ![Screenshot 2024-10-15 182709](https://github.com/user-attachments/assets/1d16acb5-88eb-4017-b4a6-54746a8ea73d)
-```
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
